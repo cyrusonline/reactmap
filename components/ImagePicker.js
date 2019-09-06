@@ -32,8 +32,7 @@ const styles = StyleSheet.create({
         marginBottom:10,
         justifyContent:'center',
         alignItems:'center',
-        borderColor:'#ccc',
-        borderWidth:1
+        borderColor:'#ccc'
     },
     image:{
         width:'100%',
