@@ -48,7 +48,6 @@ NewPlaceScreen.navigationOptions = {
 };
 
 const styles = StyleSheet.create({
-<<<<<<< HEAD
   form: {
     margin: 30
   },
@@ -64,22 +63,5 @@ const styles = StyleSheet.create({
     paddingHorizontal: 2
   }
 });
-=======
-    form: {
-        margin: 30
-    },
-    label: {
-        fontSize: 18,
-        marginBottom: 15
-    },
-    textInput: {
-        borderBottomColor: '#ccc',
-        borderBottomWidth: 1,
-        marginBottom: 15,
-        paddingVertical: 4,
-        paddingHorizontal: 2
-    }
-})
->>>>>>> eb06f657d261511d4aa4784daba0e8425b6bee78
 
 export default NewPlaceScreen;
