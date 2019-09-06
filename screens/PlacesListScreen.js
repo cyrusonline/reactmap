@@ -28,7 +28,7 @@ const PlacesListScreen = props => {
 };
 PlacesListScreen.navigationOptions = navData => {
   return {
-    headerTitle: "All Places",
+    headerTitle: "All Places!!",
     headerRight: (
       <HeaderButtons HeaderButtonComponent={HeaderButton}>
         <Item
